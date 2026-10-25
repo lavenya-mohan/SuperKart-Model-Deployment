@@ -2,7 +2,7 @@
   <img
     src="image_SMD/SuperKart Sales Forecasting Infographic.png"
     alt="SuperKart Sales Forecasting"
-    width="500"
+    width="750"
   />
 
   <h1>🛒 SuperKart Sales Forecasting</h1>
@@ -29,7 +29,7 @@ for containerization.
   <img
     src="image_SMD/Sales Forecasting Solution Architecture.png"
     alt="SuperKart Solution Architecture"
-    width="650"
+    width="800"
   />
 </div
 
