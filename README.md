@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="image_SMD/superkart_cover.png"
+    src="image_SMD/SuperKart Sales Forecasting Infographic.png"
     alt="SuperKart Sales Forecasting"
     width="500"
   />
@@ -27,7 +27,7 @@ for containerization.
 
 <div align="center">
   <img
-    src="image_SMD/solution_architecture.png"
+    src="image_SMD/Sales Forecasting Solution Architecture.png"
     alt="SuperKart Solution Architecture"
     width="650"
   />
