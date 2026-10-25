@@ -1,0 +1,13 @@
+{
+  "forwardPorts": [7860, 8501],
+  "portsAttributes": {
+    "7860": {
+      "label": "Flask Backend",
+      "visibility": "public"
+    },
+    "8501": {
+      "label": "Streamlit Frontend",
+      "visibility": "public"
+    }
+  }
+}
