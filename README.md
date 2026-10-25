@@ -1,14 +1,16 @@
 <div align="center">
+  <img
+    src="image_SMD/superkart_cover.png"
+    alt="SuperKart Sales Forecasting"
+    width="500"
+  />
 
- <img src="./image_SMD/superkart_cover.png"
-       alt="SuperKart Sales Forecasting"
-       width="500">
+  <h1>🛒 SuperKart Sales Forecasting</h1>
+  <h3>End-to-End Machine Learning Model Deployment</h3>
 
-# 🛒 SuperKart Sales Forecasting
-### End-to-End Machine Learning Model Deployment
-
-**Predict Sales | Optimize Planning | Empower Retail Decisions**
-
+  <strong>
+    Predict Sales | Optimize Planning | Empower Retail Decisions
+  </strong>
 </div>
 
 ## 🎯 Project Overview
@@ -24,10 +26,12 @@ for containerization.
 ## 🏗️ Solution Architecture
 
 <div align="center">
-  <img src="./image_SMD/solution_architecture.png"
-       alt="SuperKart Solution Architecture"
-       width="650">
-</div>div>
+  <img
+    src="image_SMD/solution_architecture.png"
+    alt="SuperKart Solution Architecture"
+    width="650"
+  />
+</div
 
 The architecture connects four key components:
 
