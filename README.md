@@ -1,6 +1,8 @@
 <div align="center">
 
-![SuperKart Sales Forecasting](image_SMD/superkart_cover.png)
+ <img src="./image_SMD/superkart_cover.png"
+       alt="SuperKart Sales Forecasting"
+       width="500">
 
 # 🛒 SuperKart Sales Forecasting
 ### End-to-End Machine Learning Model Deployment
@@ -21,7 +23,11 @@ for containerization.
 
 ## 🏗️ Solution Architecture
 
-![SuperKart Solution Architecture](imageSMD/solution_architecture.png)
+<div align="center">
+  <img src="./image_SMD/solution_architecture.png"
+       alt="SuperKart Solution Architecture"
+       width="650">
+</div>div>
 
 The architecture connects four key components:
 
